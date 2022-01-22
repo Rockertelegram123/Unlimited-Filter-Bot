@@ -9,9 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "Rockertelegram123
-/
-Unlimited-Filter-Bot",
+    "repository": "Rockertelegram123/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "WEBHOOK": {
